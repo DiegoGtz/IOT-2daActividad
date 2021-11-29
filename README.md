@@ -19,10 +19,10 @@ En esta parte se tuvo algunas dificultades al momento de instalar el mosquitto e
 
 ### Prerequisitos para correrlo Localmente 
 
-> Tener instaldo Mysql
-> Tener phpMyAdmin
-> Mosquitto 
-> Node-Red
+- Tener instaldo Mysql
+- Tener phpMyAdmin
+- Mosquitto 
+- Node-Red
 
 #### Importamos la base da datos
 
