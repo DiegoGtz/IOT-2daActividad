@@ -14,7 +14,7 @@
 ### Prerequisitos para correr desde docker
 > Tener instalado docker en el computador
 
-En esta parte se tuvo algunas dificultades al momento de instalar el mosquitto en el archivo docker compose.  Pero se pudo instalar con exito Node - Red, mysql y phpMyAdmin.
+En esta parte se tuvo algunas dificultades al momento de instalar el mosquitto en el archivo docker compose.  Pero se pudo instalar con exito Node - Red, mysql y phpMyAdmin. El problema radico en no poder establecer una conexión entre Node-Red y el mosquitto
 
 
 ### Prerequisitos para correr la actividad  localmente 
@@ -31,7 +31,7 @@ En nuestro directorio phpMyAdmin importamos el archivos tseriesdb .
 <p align="center"><img src="./assets/importar.PNG" width =550px> </p>
 
 #### Importamos a Node-Red
-Ahora vamos importar nuestro json a nuestra plantilla en Node-Red.
+Ahora vamos importar nuestro json a nuestra plantilla en Node-Red. Nuestro json se encuentra en la carpeta node-red-json.
 
 <p align="center"><img src="./assets/node-red.PNG" width =550px> </p>
 
