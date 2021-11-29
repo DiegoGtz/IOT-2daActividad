@@ -17,7 +17,7 @@
 En esta parte se tuvo algunas dificultades al momento de instalar el mosquitto en el archivo docker compose.  Pero se pudo instalar con exito Node - Red, mysql y phpMyAdmin.
 
 
-### Prerequisitos para correrlo localmente 
+### Prerequisitos para correr la actividad  localmente 
 
 - Tener instaldo Mysql
 - Tener phpMyAdmin
