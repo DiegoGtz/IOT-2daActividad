@@ -17,7 +17,7 @@
 En esta parte se tuvo algunas dificultades al momento de instalar el mosquitto en el archivo docker compose.  Pero se pudo instalar con exito Node - Red, mysql y phpMyAdmin.
 
 
-### Prerequisitos para correrlo Localmente 
+### Prerequisitos para correrlo localmente 
 
 - Tener instaldo Mysql
 - Tener phpMyAdmin
@@ -26,3 +26,6 @@ En esta parte se tuvo algunas dificultades al momento de instalar el mosquitto e
 
 #### Importamos la base da datos
 
+En nuestro directorio phpMyAdmin importamos el archivos tseriesdb 
+
+<p align="center"><img src="./assets/importar.png" width =200px> </p>
