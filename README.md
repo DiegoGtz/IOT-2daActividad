@@ -10,3 +10,10 @@
 - [Mosquitto](https://mosquitto.org/)
 
 ## Ejecutando el proyecto
+ 
+### Prerequisitos para correr desde docker
+    >  Tener instalado docker en el computador
+
+### Prerequisitos para correrlo Localmente 
+
+#### d
