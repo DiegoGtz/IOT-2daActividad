@@ -24,7 +24,7 @@ En esta parte se tuvo algunas dificultades al momento de instalar el mosquitto e
 - Mosquitto 
 - Node-Red
 
-#### Importamos la base da datos
+#### Importar la base da datos
 
 En nuestro directorio phpMyAdmin importamos el archivos tseriesdb .
 
