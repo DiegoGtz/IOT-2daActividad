@@ -1,11 +1,13 @@
 version: "3.7"
 services: 
+  #node Red 
   node-red:
     image: nodered/node-red:latest
     ports:
       - "1880:1880"
     networks:
       - localnet
+  #mosquitto
   mosquitto:
     image: eclipse-mosquitto:1.6
     ports:
@@ -13,11 +15,12 @@ services:
       - "1883:1883"
     networks:
       - localnet
+  #mysql
   db:
     image: mysql:5.7
     container_name: db
     environment:
-      MYSQL_ROOT_PASSWORD: 
+      MYSQL_ROOT_PASSWORD: rootpass
       MYSQL_DATABASE: app_db
       MYSQL_USER: db_user
       MYSQL_PASSWORD: db_user_pass
