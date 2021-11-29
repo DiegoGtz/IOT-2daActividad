@@ -12,8 +12,17 @@
 ## Ejecutando el proyecto
  
 ### Prerequisitos para correr desde docker
-    >  Tener instalado docker en el computador
+> Tener instalado docker en el computador
+
+En esta parte se tuvo algunas dificultades al momento de instalar el mosquitto en el archivo docker compose.  Pero se pudo instalar con exito Node - Red, mysql y phpMyAdmin.
+
 
 ### Prerequisitos para correrlo Localmente 
 
-#### d
+> Tener instaldo Mysql
+> Tener phpMyAdmin
+> Mosquitto 
+> Node-Red
+
+#### Importamos la base da datos
+
