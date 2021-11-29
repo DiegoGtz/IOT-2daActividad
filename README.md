@@ -28,4 +28,4 @@ En esta parte se tuvo algunas dificultades al momento de instalar el mosquitto e
 
 En nuestro directorio phpMyAdmin importamos el archivos tseriesdb 
 
-<p align="center"><img src="./assets/importar.png" width =200px> </p>
+<p align="center"><img src="./assets/importar.PNG" width =100px> </p>
