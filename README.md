@@ -34,3 +34,37 @@ En nuestro directorio phpMyAdmin importamos el archivos tseriesdb .
 Ahora vamos importar nuestro json a nuestra plantilla en Node-Red.
 
 <p align="center"><img src="./assets/node-red.PNG" width =350px> </p>
+
+### Resultados
+
+#### Creando el primer flujo para nuestra plataforma
+
+Resultados del primer ejemplo propuesto en el libro, en ese ejemplo se imprimia un mensaje cada 15 segundo, este mensaje se imprimira en el debug y en nuestrs consola mediante el mosquitto.
+
+<p align="center"><img src="./assets/ejemplo 1.PNG" width =350px> </p>
+
+<p align="center"><img src="./assets/ejemplo1_mosquitto.PNG" width =350px> </p>
+
+
+#### Publicador de mensajes de API REST
+
+Resultados de segundo ejemplo del libro, el cual nos permite mandar mensajes apartir de nuestro protocolo HTTP.
+
+<p align="center"><img src="./assets/eejemplo2.PNG" width =350px> </p>
+
+<p align="center"><img src="./assets/ejemplo2Node.PNG" width =350px> </p>
+
+#### Utilizando una BD
+
+Resultados del tercer ejemplo, el cual nos permite alamacenar en nuestra BD todo lo que nuestro programa escucha.
+
+<p align="center"><img src="./assets/ejemplo3.PNG" width =350px> </p>
+<p align="center"><img src="./assets/ejemplo3bd.PNG" width =350px> </p>
+
+#### Recuperador de mensajes de la API REST
+
+Resultados del cuarto ejemplo, el cual nos servira para recuperar mensajes alamcenados en la base de datos.
+
+<p align="center"><img src="./assets/ejemplo4.PNG" width =350px> </p>
+<p align="center"><img src="./assets/ejemplo41.PNG" width =350px> </p>
+
